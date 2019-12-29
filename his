@@ -1,0 +1,140 @@
+    1  ls
+    2  cd /root/
+    3  sudo root
+    4  sudo cd root
+    5  sudo cd /root
+    6  cd/
+    7  cd /
+    8  ls
+    9  cd /root/
+   10  sudo cd /root/
+   11  sudo
+   12  vim /etc/resolv.conf 
+   13  reboot
+   14  sudo reboot
+   15  ip a
+   16  ping www.baidu.com
+   17  cd /etc/
+   18  ls
+   19  vi resolv.conf 
+   20  sudo vi resolv.conf 
+   21  /etc/init.d/networking restart
+   22  ping baidu.com
+   23  sudo apt-get install vim
+   24  sudo apt-get update
+   25  sudo apt-get install vim
+   26  vim u
+   27  sudo apt-get install openssh-server
+   28  sudo service ssh start
+   29  ls
+   30  vim /etc/resolv.conf 
+   31  sudo vim /etc/resolv.conf 
+   32  vim /etc/network/interfaces
+   33  ip a
+   34  ps -e | grep ssh
+   35  cd /lib/modules/
+   36  ls
+   37  cd /usr/src/work-space/hello/
+   38  ls
+   39  vim hello.c
+   40  vim /etc/resolv.conf 
+   41  su
+   42  sudo
+   43  sudo vim /etc/network/interfaces
+   44  sudo vim /etc/resolv.conf 
+   45  sudo vim /etc/network/interfaces
+   46  reboot
+   47  sudo reboot
+   48  sudo vim /etc/network/interfaces
+   49  sudo vim /etc/resolv.conf 
+   50  git
+   51  sudo apt install git
+   52  sudo apt-get install git
+   53  sudo vim /etc/resolv.conf 
+   54  /etc/init.d/networking restart
+   55  sudo /etc/init.d/networking restart
+   56  sudo apt install git
+   57  git
+   58  git -v
+   59  git -version
+   60  git version
+   61  sudo mkdir learngit
+   62  ls
+   63  cd learngit/
+   64  ls
+   65  git init
+   66  sudo git init
+   67  ls -l
+   68  ls -ah
+   69  vim readma
+   70  sudo vim readma
+   71  git branch
+   72  git add readma 
+   73  sudo git add readma 
+   74  sudo git commit -m 'commit'
+   75  sudo  git config --global user.name "jax"
+   76  git config --global user.email "3203655760@qq.com"
+   77  sudo git commit -m 'commit'
+   78  git log
+   79  ls
+   80  sudo vim readma 
+   81  git commit -m "append GPL"
+   82  sudo git commit -m "append GPL"
+   83  git log
+   84  sudo git commit -m "append"
+   85  git add readma 
+   86  sudo git add readma 
+   87  sudo git commit -m "append"
+   88  git log
+   89  ls
+   90  sudo vim readma 
+   91  sudo git commit -m "add aaa"
+   92  sudo add readma 
+   93  sudo git add readma 
+   94  sudo git commit -m "add aaa"
+   95  git log
+   96  sudo 
+   97  su
+   98  git log --pretty=oneline
+   99  sudo git reset --hard HEAD^
+  100  cat readma 
+  101  git log 
+  102  git log --pretty=oneline
+  103  sudo git reset --hard 26c3279b99db65fe65a53f37d667e92781f562fe
+  104  cat readma 
+  105  git log --pretty=oneline
+  106  sudo ssh-keygen -t rsa -C "3203655760@qq.com"
+  107  sudo vim /root/.ssh/id_rsa.pub 
+  108  sudo  git remote add origin git@github.com:LuoBiaopy/learngit.git
+  109  sudo git push -u origin master
+  110  sudo  git remote add origin https://github.com/LuoBiaopy/learngit.git
+  111  sudo git push -u origin master
+  112  sudo vim readma 
+  113  git commit -m 'nothing'
+  114  sudo git commit -m 'nothing'
+  115  sudo git add readma 
+  116  sudo git commit -m 'nothing'
+  117  sudo git push -u origin master
+  118  sudo git clone git@https://github.com/LuoBiaopy/learngit
+  119  ls
+  120  vim readma 
+  121  sudo git clone https://github.com/LuoBiaopy/learngit
+  122  ls
+  123  cd learngit/
+  124  vim readma 
+  125  history >./his
+  126  sudo history >./his
+  127  sudo history >his
+  128  sudo history > l
+  129  history >/tmp/l
+  130* vim his
+  131  sudo history >./his
+  132  sudo vim his
+  133  sudo history >./his
+  134  pwd
+  135  cd ..
+  136  sudo history >./his
+  137  sudo history >/home/jax/learngit/his
+  138  sudo history > /home/jax/learngit/his
+  139  sudo history > /home/jax/his
+  140  history > /home/jax/his
